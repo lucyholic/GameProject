@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/fonts/highlightFont.spritefont</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/fonts/messageFont.spritefont</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/fonts/nameFont.spritefont</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/fonts/regularFont.spritefont</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/fonts/scoreFont.spritefont</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/Background.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/chest.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/coin.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/creditscene.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/helpscene.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/map.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/player.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/zombie_falling.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/images/zombie_standing.png</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/bensound-clearday.mp3</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/bensound-creepy.mp3</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/bensound-littleidea.mp3</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/clink.wav</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/gamecomplete.wav</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/gameover.wav</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/jump.wav</File>
+    <File>E:/LKFinalProject/SourceCode/LKimFinalProject/Content/sounds/step.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
